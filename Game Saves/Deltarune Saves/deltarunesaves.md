@@ -1,2 +1,4 @@
 # Deltarune Saves
-### <a href="https://raw.githubusercontent.com/sastofficial/FileHost/main/Game%20Saves/Deltarune%20Saves/filech2_0%20(main%20playthrough)" download="ttps://raw.githubusercontent.com/sastofficial/FileHost/main/Game%20Saves/Deltarune%20Saves/filech2_0%20(main%20playthrough)">Main Route (First Playthrough)</a>
+##### (If files show up [like a text file](https://sastofficial.github.io/pages/img/savefile-textfile.html) click CTRL + S)
+## Chapter 2
+#### [Main Playthrough](https://sastofficial.github.io/FileHost/Game%20Saves/Deltarune%20Saves/filech2_0%20(main%20playthrough))
